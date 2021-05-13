@@ -1,3 +1,9 @@
+<div>
+
+<a href="https://www.pinterest.com/pin/568790627928202477/">
+ <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" align="right" width="300" />
+</a>
+
 # Hi there, I'm Deyvid William 👋
 
 I'm a young computer technician trained by Federal Institute of Education Science and Technology of Rio Grande do Norte (IFRN)📚.
@@ -26,6 +32,7 @@ Another things about me:
  <img src="https://img.shields.io/github/followers/deyvidwms?style=social"/>
 </a>
 
+</div>
 <!--
 **Alucardzx360/Alucardzx360** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
