@@ -12,7 +12,6 @@ Undergraduate student in Information of Technology at Federal University of Rio 
 An enthusiast in swimming 🏊‍♂️, movies 🎞, games 🕹 and others things of geek culture 🖖.
 
 Another things about me:
-- [x] Software Developer at [Lamp Soluções Inteligentes](https://www.lampsolucoesinteligentes.com/);
 - [x] Passionate for programming;
 - [x] I love listen music and watch movies.
 
