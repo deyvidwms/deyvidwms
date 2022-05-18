@@ -16,9 +16,9 @@ Another things about me:
 - [x] I love listen music and watch movies.
 
 
- <!--
+
  [![Top Stacks](https://github-readme-stats.vercel.app/api/top-langs/?username=deyvidwms&layout=compact&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
--->
+
 <a href="https://www.linkedin.com/in/deyvid-william-8ba5951b4/">
  <img src="https://img.shields.io/static/v1?label=&message=LinkedIn&color=blue&style=flat-square&logo=LINKEDIN"/>
 </a>
