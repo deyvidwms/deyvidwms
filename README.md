@@ -11,11 +11,6 @@ Undergraduate student in Information of Technology at Federal University of Rio 
 
 An enthusiast in swimming 🏊‍♂️, movies 🎞, games 🕹 and others things of geek culture 🖖.
 
-Another things about me:
-- [x] Passionate for programming;
-- [x] I love listen music and watch movies.
-
-
  [![Top Stacks](https://github-readme-stats.vercel.app/api/top-langs/?username=deyvidwms&layout=compact&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="https://www.linkedin.com/in/deyvid-william-8ba5951b4/">
