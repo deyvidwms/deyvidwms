@@ -144,15 +144,7 @@
       style="width: 30px"
     />
     <img 
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" 
-      style="width: 30px"
-    />
-    <img 
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" 
-      style="width: 30px"
-    />
-    <img 
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" 
       style="width: 30px"
     />
   </div>
