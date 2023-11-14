@@ -1,44 +1,193 @@
 <div>
-
-<a href="https://www.pinterest.com/pin/568790627928202477/">
- <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" align="right" width="300" />
-</a>
-
-# Hi there, I'm Deyvid William 👋
-
-I'm a young computer technician trained by Federal Institute of Education Science and Technology of Rio Grande do Norte (IFRN)📚.
-Undergraduate student in Information of Technology at Federal University of Rio Grande do Norte (UFRN)🎓.
-
-An enthusiast in swimming 🏊‍♂️, movies 🎞, games 🕹 and others things of geek culture 🖖.
-
- [![Top Stacks](https://github-readme-stats.vercel.app/api/top-langs/?username=deyvidwms&layout=compact&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
-
-<a href="https://www.linkedin.com/in/deyvid-william-8ba5951b4/">
- <img src="https://img.shields.io/static/v1?label=&message=LinkedIn&color=blue&style=flat-square&logo=LINKEDIN"/>
-</a>
-
-<a href="mailto:deyvidwms@gmail.com">
- <img src="https://img.shields.io/badge/-Mail-c14438?style=flat-square&logo=Gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/deyvidwms">
- <img src="https://img.shields.io/github/followers/deyvidwms?style=social"/>
-</a>
-
+  <h1 
+   align="center"
+  >
+    Hi there, I'm Deyvid William 👋
+  </h1>
+  <div>
+    <p 
+      align="center"
+      style="font-size: 1.125rem; text-align: center; margin-bottom: 32px"
+    >
+      I'm a young computer technician trained by Federal Institute of Education Science and Technology of Rio Grande do Norte (IFRN) 📚.<br />
+      Undergraduate student in Information of Technology at Federal University of Rio Grande do Norte (UFRN) 🎓.
+    </p>
+  </div>
 </div>
 
-<!--
-**Alucardzx360/Alucardzx360** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
+  <h1 
+   align="center"
+  >
+    Technologies & Tools
+  </h1>
+  
+  <div 
+    align="center"
+    style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: space-around; align-items: center; margin-bottom: 32px;"
+  >
+    <img 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
+      style="width: 30px"
+    />
+    <img 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" 
+      style="width: 30px"
+    />
+    <img 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" 
+      style="width: 30px"
+    />
+    <img 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" 
+      style="width: 30px" 
+    />
+    <img 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg" 
+      style="width: 30px"
+    />
+    <img 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" 
+      style="width: 40px" 
+    />
+    <img 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" 
+      style="width: 30px"
+    />
+    <img 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" 
+      style="width: 30px"
+    />
+    <img 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" 
+      style="width: 40px"
+    />
+    <img 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" 
+      style="width: 30px"
+    />
+    <img 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/woocommerce/woocommerce-original.svg" 
+      style="width: 30px"
+    />
+  </div>
 
-Here are some ideas to get you started:
+  <div 
+    align="center"
+    style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: space-around; align-items: center; margin-bottom: 32px;"
+  >
+    <img 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"
+      style="width: 30px"
+    />
+    <img 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"
+      style="width: 30px"
+    />
+    <img 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" 
+      style="width: 30px"
+    />
+    <img 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg"
+      style="width: 30px"
+    />
+  </div>
+  <div 
+    align="center"
+    style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: space-around; align-items: center; margin-bottom: 32px;"
+  >
+    <img 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" 
+      style="width: 30px"
+    />
+    <img 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original-wordmark.svg" 
+      style="width: 40px"
+    />
+  </div>
+  <div 
+    align="center"
+    style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: space-around; align-items: center; margin-bottom: 32px;"
+  >
+    <img 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" 
+      style="width: 40px"
+    />
+    <img 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" 
+      style="width: 40px"  
+    />
+  </div>
+  <div 
+    align="center"
+    style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: space-around; align-items: center; margin-bottom: 32px;"
+  >
+    <img 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" 
+      style="width: 30px"
+    />
+    <img 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" 
+      style="width: 30px"
+    />
+    <img 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" 
+      style="width: 30px"
+    />
+    <img 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" 
+      style="width: 30px"
+    />
+    <img 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" 
+      style="width: 30px"
+    />
+    <img 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" 
+      style="width: 30px"
+    />
+    <img 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" 
+      style="width: 30px"
+    />
+    <img 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" 
+      style="width: 30px"
+    />
+  </div>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <h1
+   align="center"
+  >
+    In Process
+  </h1>
+  <div
+    align="center"
+    style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: space-around; align-items: center; margin-bottom: 32px"
+  >
+    <img 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" 
+      style="width: 50px"
+    />
+    <img 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" 
+      style="width: 30px"
+    />
+  </div>
+</div>
 
+<div>
+ <h1
+  align="center"
+ >Exploring Techs</h1>
+<div
+ align="center" 
+>
+  <a href="https://github.com/deyvidwms">
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deyvidwms&layout=compact&langs_count=7&theme=dracula&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515"/>
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=deyvidwms&show_icons=true&theme=dracula&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515&include_all_commits=true&count_private=true"/>
+</div>
+</div>
